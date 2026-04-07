@@ -140,12 +140,12 @@ En lugar de bloquear el tráfico sospechoso:
 
 ## 📌 Autor
 
-- Nombre: *[Tu nombre]*  
-- Grado: *[Tu grado]*  
-- Universidad: *[Tu universidad]*  
+- Nombre: *Alberto Marín Cuesta*  
+- Grado: *Ingeniería de Tecnologías y Servicios de Telecomunicación*  
+- Universidad: *Universidad Politécnica de Madrid*  
 
 ---
 
 ## 📜 Licencia
 
-Este proyecto se distribuye bajo la licencia *[MIT / GPL / otra]*  
+
